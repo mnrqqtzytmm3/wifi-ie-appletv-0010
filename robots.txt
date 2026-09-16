@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mnrqqtzytmm3.github.io/wifi-ie-appletv-0010/sitemap.xml
